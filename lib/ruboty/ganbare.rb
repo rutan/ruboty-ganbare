@@ -1,0 +1,6 @@
+require 'ruboty/ganbare/version'
+require 'ruboty/actions/ganbare/base'
+require 'ruboty/actions/ganbare/add'
+require 'ruboty/actions/ganbare/remove'
+require 'ruboty/actions/ganbare/tsurami'
+require 'ruboty/handlers/ganbare'
